@@ -23,6 +23,26 @@ a smart TV 42 inches 1080p.
 With these too many screens, I realized
 these things:
 
-## 24-Inches 1080p
+## 24-Inch 1080p
+If that is really 1080p, then, that's good.
+You have a lot of space. With Windows OS,
+you get a scaled view of everything. They
+say Windows OS is not good being scaled but
+I think it's just fine. When you compare that
+to MacBook Pro scaling, then it's not that
+good.
 
-## iMac 21.5-Inches 4k Retina Display
+But here is one thing you achieve: 
+you have bigger fonts especially when your
+eyesight is poor.
+
+Viewing distance is a litte bit further
+since fonts are bigger. But still, it
+is a good one. That's really good for poor
+eyesight. 4k resolution actually does 
+not answer that so even Mac can be scaled.
+
+## iMac 21.5-Inch 4k Retina Display
+If you have 20/20 eyesight, then, 
+you'll find this 4k Retina Display an 
+awesome experience.
