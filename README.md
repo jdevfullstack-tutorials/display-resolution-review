@@ -23,6 +23,6 @@ a smart TV 42 inches 1080p.
 With these too many screens, I realized
 these things:
 
-## 24 inches 1080p
+## 24-Inches 1080p
 
-## iMac 21.5 inches 4k Retina Display
+## iMac 21.5-Inches 4k Retina Display
