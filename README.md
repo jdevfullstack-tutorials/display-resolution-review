@@ -6,7 +6,7 @@ from different desktops.
 Before the pandemic, I was satisfied with
 my HP Stream netbook. That is just
 too low in specs and the screen is,
-of course, too small screen. 
+of course, too small. 
 But nowadays, during the pandemic,
 we are forced to do online classes
 and all work is done through the computer.
@@ -15,11 +15,11 @@ So, this one really matters now.
 First, I simply project the netbook
 to an external monitor 24" 1080p. Then, 
 we were provided by our company
-with iMac 21.5 inches, 
+with the iMac 21.5 inches, 
 that's 4k Retina Display, 
 knowing that we really need that.
 Plus there are two extra external 
-monitor, 19.5 inches, 1080p and
+monitors, 19.5 inches, 1080p and
 a smart TV 42 inches 1080p.
 
 With these too many screens, I realized
@@ -29,7 +29,7 @@ these things:
 If that is really 1080p, then, that's good.
 You have a lot of space. With Windows OS,
 you get a scaled view of everything. They
-say Windows OS is not good being scaled but
+say Windows OS is not good at being scaled but
 I think it's just fine. When you compare that
 to MacBook Pro scaling, then it's not that
 good.
@@ -38,7 +38,7 @@ But here is one thing you achieve:
 you have bigger fonts especially when your
 eyesight is poor.
 
-Viewing distance is a litte bit further
+Viewing distance is a little bit further
 since fonts are bigger. But still, it
 is a good one. That's really good for poor
 eyesight. 4k resolution actually does 
@@ -70,7 +70,7 @@ eye strain.
 And since they say, it's retina display
 the individual pixels are too much, you
 will not see any individual pixel, no matter
-how close are you. 
+how close you are. 
 
 This one really makes a striking difference:
 when using GitHub and you are editing the
@@ -90,8 +90,8 @@ This external monitor is not a completely
 computer monitor, no matter how they claim
 it to be. Also, it's not just the 42-Inch.
 These displays are more for viewing videos 
-and hence cannot be used, say, for editing
-text file. It can be, but for sure, your eyes
+and hence cannot be used, say, for
+text editing. It can be, but for sure, your eyes
 will not be able to handle it for a longer
 period. Even if they claim a 4k 50-Inch 
 screen, as evidence of the price it is sold,
