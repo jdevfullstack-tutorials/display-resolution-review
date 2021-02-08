@@ -59,6 +59,13 @@ I'm not mentioning any specific distance,
 but the basic rule is that stretch your
 arm then find the correct spot there
 whether moving away or to the monitor.
+It was just I came from the larger
+scaling of 1080p and Windows OS, I 
+realized I should be closer for this 
+display. And once I have my spot, 
+the experience is actually good,
+I don't experience much digital
+eye strain.
 
 And since they say, it's retina display
 the individual pixels are too much, you
