@@ -5,10 +5,12 @@ from different desktops.
 
 Before the pandemic, I was satisfied with
 my HP Stream netbook. That is just
-too low in specs and too small screen. 
-But during the pandemic,
-we were forced to do online classes
+too low in specs and the screen is,
+of course, too small screen. 
+But nowadays, during the pandemic,
+we are forced to do online classes
 and all work is done through the computer.
+So, this one really matters now.
 
 First, I simply project the netbook
 to an external monitor 24" 1080p. Then, 
