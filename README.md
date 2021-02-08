@@ -23,7 +23,7 @@ monitors, 19.5 inches, 1080p and
 a smart TV 42 inches 1080p.
 
 With these too many screens, I realized
-these things:
+these things (for productivity):
 
 ## 24-Inch 1080p
 If that is really 1080p, then, that's good.
