@@ -1,4 +1,4 @@
-# Display Resolutions Review
+# Display Resolution Review
 I just want to just share my personal 
 experience from using different resolutions 
 from different desktops. 
