@@ -58,7 +58,7 @@ viewing distance.
 I'm not mentioning any specific distance,
 but the basic rule is that stretch your
 arm then find the correct spot there
-whether moving away or to the monitor.
+whether moving away or towards the monitor.
 It was just I came from the larger
 scaling of 1080p and Windows OS, I 
 realized I should be closer for this 
