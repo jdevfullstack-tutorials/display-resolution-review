@@ -88,9 +88,10 @@ But beyond this size, you need a curved one.
 ## The 42-Inch Smart TV
 This external monitor is not a completely
 computer monitor, no matter how they claim
-it to be. They are more for viewing videos 
+it to be. Also, it's not just the 42-Inch.
+These displays are more for viewing videos 
 and hence cannot be used, say, for editing
-text file. It can be but for sure, your eyes
+text file. It can be, but for sure, your eyes
 will not be able to handle it for a longer
 period. Even if they claim a 4k 50-Inch 
 screen, as evidence of the price it is sold,
