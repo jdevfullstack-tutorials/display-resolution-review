@@ -44,6 +44,10 @@ is a good one. That's really good for poor
 eyesight. 4k resolution actually does 
 not answer that so even Mac can be scaled.
 
+Also, some other external 24-Inch monitor
+is already curved. This actually has no
+benefit for this size.
+
 ## iMac 21.5-Inch 4k Retina Display
 If you have 20/20 eyesight, then, 
 you'll find this 4k Retina Display an 
@@ -69,3 +73,18 @@ small in editing mode, they are not problematic,
 of course, if you have a normal vision.
 Compared to 1080p, it's a little bit bigger,
 but you can see the individual pixels.
+
+The 27-Inch iMac is still not curved,
+in my experience also, this is really true.
+But beyond this size, you need a curved one.
+
+## The 42-Inch Smart TV
+This external monitor is not a completely
+computer monitor, no matter how they claim
+it to be. They are more for viewing videos 
+and hence cannot be used, say, for editing
+text file. It can be but for sure, your eyes
+will not be able to handle it for a longer
+period. Even if they claim a 4k 50-Inch 
+screen, as evidence of the price it is sold,
+computer monitors tend to be expensive.
