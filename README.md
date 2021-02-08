@@ -86,13 +86,20 @@ in my experience also, this is really true.
 But beyond this size, you need a curved one.
 
 ## The 42-Inch Smart TV
-This external monitor is not a completely
-computer monitor, no matter how they claim
+This external monitor is not completely
+a computer monitor, no matter how it is claimed
 it to be. Also, it's not just the 42-Inch.
 These displays are more for viewing videos 
 and hence cannot be used, say, for
 text editing. It can be, but for sure, your eyes
 will not be able to handle it for a longer
 period. Even if they claim a 4k 50-Inch 
-screen, as evidence of the price it is sold,
-computer monitors tend to be expensive.
+screen, computer monitors tend to be expensive,
+so from the price alone, you can say it's not
+really a good quality even if manufacturers
+insist it's 4k resolution, for example. 
+
+This 42-Inch Smart TV is projecting the 
+iMac, but still is not good quality. It's
+good for viewing because you have a very
+large projection.
