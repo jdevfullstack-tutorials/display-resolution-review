@@ -19,3 +19,10 @@ knowing that we really need that.
 Plus there are two extra external 
 monitor, 19.5 inches, 1080p and
 a smart TV 42 inches 1080p.
+
+With these too many screens, I realized
+these things:
+
+## 24 inches 1080p
+
+## iMac 21.5 inches 4k Retina Display
