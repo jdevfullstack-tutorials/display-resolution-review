@@ -53,3 +53,17 @@ I'm not mentioning any specific distance,
 but the basic rule is that stretch your
 arm then find the correct spot there
 whether moving away or to the monitor.
+
+And since they say, it's retina display
+the individual pixels are too much, you
+will not see any individual pixel, no matter
+how close are you. 
+
+This one really makes a striking difference:
+when using GitHub and you are editing the
+document right there at the site,
+you'll see that even the fonts are too
+small in editing mode, they are not problematic,
+of course, if you have a normal vision.
+Compared to 1080p, it's a little bit bigger,
+but you can see the individual pixels.
