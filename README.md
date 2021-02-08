@@ -45,4 +45,11 @@ not answer that so even Mac can be scaled.
 ## iMac 21.5-Inch 4k Retina Display
 If you have 20/20 eyesight, then, 
 you'll find this 4k Retina Display an 
-awesome experience.
+awesome experience. There is only one
+catch: make sure you have the correct
+viewing distance.
+
+I'm not mentioning any specific distance,
+but the basic rule is that stretch your
+arm then find the correct spot there
+whether moving away or to the monitor.
