@@ -35,11 +35,11 @@ to MacBook Pro scaling, then it's not that
 good.
 
 But here is one thing you achieve: 
-you have bigger fonts especially when your
-eyesight is poor.
+you have bigger projection of everything,
+especially when your eyesight is poor.
 
 Viewing distance is a little bit further
-since fonts are bigger. But still, it
+since the projection is bigger. But still, it
 is a good one. That's really good for poor
 eyesight. 4k resolution actually is not so
 good for poor eyesight so that Mac 
@@ -74,8 +74,7 @@ eye strain.
 And since they say, it's retina display
 the individual pixels are too much, you
 will not see any individual pixel, no matter
-how close you are. 
-
+how close you are.
 This one really makes a 
 striking difference, for example:
 when using GitHub and you are editing the
