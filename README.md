@@ -18,7 +18,7 @@ we were provided by our company
 with the iMac 21.5", 
 that's 4k Retina Display, 
 knowing that we really need that.
-Plus there are two extra external 
+Plus, there are two extra external 
 monitors, 19.5" 1080p and
 a smart TV 42" 1080p.
 
@@ -41,12 +41,16 @@ eyesight is poor.
 Viewing distance is a little bit further
 since fonts are bigger. But still, it
 is a good one. That's really good for poor
-eyesight. 4k resolution actually does 
-not answer that so even Mac can be scaled.
+eyesight. 4k resolution actually are not so
+good for poor eyesight so that Mac 
+still can be adjusted to a 
+lower resolution.
 
 Also, some other external 24-Inch monitor
 is already curved. This actually has no
 benefit for this size.
+The 27-Inch iMac is still not curved.
+But beyond this size, you need a curved one.
 
 ## iMac 21.5-Inch 4k Retina Display
 If you have 20/20 eyesight, then, 
@@ -56,7 +60,7 @@ catch: make sure you have the correct
 viewing distance.
 
 I'm not mentioning any specific distance,
-but the basic rule is that stretch your
+but the basic rule is that you stretch your
 arm then find the correct spot there
 whether moving away or towards the monitor.
 It was just I came from the larger
@@ -72,18 +76,20 @@ the individual pixels are too much, you
 will not see any individual pixel, no matter
 how close you are. 
 
-This one really makes a striking difference:
+This one really makes a 
+striking difference, for example:
 when using GitHub and you are editing the
 document right there at the site,
 you'll see that even the fonts are too
-small in editing mode, they are not problematic,
-of course, if you have a normal vision.
-Compared to 1080p, it's a little bit bigger,
+small in editing mode, they are not problematic
+if you have a normal vision.
+Compared to 1080p, the 1080p is 
+a little bit bigger,
 but you can see the individual pixels.
-
-The 27-Inch iMac is still not curved,
-in my experience also, this is really true.
-But beyond this size, you need a curved one.
+In my experience, 
+I can say it's not as dense compared to
+the Retina Display of iMac. That really
+matters.
 
 ## The 42-Inch Smart TV
 This external monitor is not completely
