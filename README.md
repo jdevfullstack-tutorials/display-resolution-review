@@ -18,7 +18,7 @@ we were provided by our company
 with the iMac 21.5", 
 that's 4k Retina Display, 
 knowing that we really need that.
-Plus, there are two extra external 
+Plus, there are two external 
 monitors, 19.5" 1080p and
 a smart TV 42" 1080p.
 
@@ -41,7 +41,7 @@ eyesight is poor.
 Viewing distance is a little bit further
 since fonts are bigger. But still, it
 is a good one. That's really good for poor
-eyesight. 4k resolution actually are not so
+eyesight. 4k resolution actually is not so
 good for poor eyesight so that Mac 
 still can be adjusted to a 
 lower resolution.
