@@ -107,4 +107,10 @@ insist it's 4k resolution, for example.
 This 42-Inch Smart TV is projecting the 
 iMac, but still is not good quality. It's
 good for viewing because you have a very
-large projection.
+large projection. So, you can use larger
+TV screens for viewing videos in YouTube
+while you are working, say, playing a 
+music video or live concert. 
+You just saved money for a larger projection
+of videos. That's an awesome experience too. 
+
