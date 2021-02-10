@@ -15,12 +15,12 @@ So, this one really matters now.
 First, I simply project the netbook
 to an external monitor 24" 1080p. Then, 
 we were provided by our company
-with the iMac 21.5 inches, 
+with the iMac 21.5", 
 that's 4k Retina Display, 
 knowing that we really need that.
 Plus there are two extra external 
-monitors, 19.5 inches, 1080p and
-a smart TV 42 inches 1080p.
+monitors, 19.5" 1080p and
+a smart TV 42" 1080p.
 
 With these too many screens, I realized
 these things (for productivity):
