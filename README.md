@@ -35,7 +35,7 @@ to MacBook Pro scaling, then it's not that
 good.
 
 But here is one thing you achieve: 
-you have bigger projection of everything,
+you have a bigger projection of everything,
 especially when your eyesight is poor.
 
 Viewing distance is a little bit farther
@@ -46,7 +46,7 @@ good for poor eyesight so that Mac
 still has the option to 
 lower the resolution.
 
-Also, some external 24-Inch monitor
+Also, some external 24-Inch monitors
 are already curved. This actually has no
 benefit for this size.
 The 27-Inch iMac is still not curved.
@@ -107,10 +107,10 @@ insist it's 4k resolution.
 This 42-Inch Smart TV is projecting the 
 iMac, but still is not good quality
 for productivity. Again, let me emphasize
-**for productivity**. It's
+*for productivity*. It's
 good for viewing because you have a very
 large projection. So, you can use larger
-TV screens for viewing videos in YouTube
+TV screens for viewing videos on YouTube
 while you are working, say, playing a 
 music video or live concert. 
 You just saved money for a larger projection
