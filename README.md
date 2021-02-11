@@ -43,8 +43,8 @@ since the projection is bigger. But still, it
 is a good one. That's really good for poor
 eyesight. 4k resolution actually is not so
 good for poor eyesight so that Mac 
-still can be adjusted to a 
-lower resolution.
+still has the option to 
+lower the resolution.
 
 Also, some other external 24-Inch monitor
 is already curved. This actually has no
