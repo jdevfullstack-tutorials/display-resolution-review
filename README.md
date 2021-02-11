@@ -76,7 +76,7 @@ the individual pixels are too much, you
 will not see any individual pixel, no matter
 how close you are.
 This one really makes a 
-striking difference, for example:
+striking difference, for example,
 when using GitHub and you are editing the
 document right there at the site,
 you'll see that even the fonts are too
