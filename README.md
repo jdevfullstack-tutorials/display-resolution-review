@@ -99,18 +99,25 @@ and hence cannot be used, say, for
 text editing. It can be, but for sure, your eyes
 will not be able to handle it for a longer
 period. Even if they claim a 4k 50-Inch 
-screen, computer monitors tend to be expensive,
+screen, computer monitors tend to be more expensive,
 so from the price alone, you can say it's not
 really a good quality even if manufacturers
-insist it's 4k resolution, for example. 
+insist it's 4k resolution.
 
 This 42-Inch Smart TV is projecting the 
-iMac, but still is not good quality. It's
+iMac, but still is not good quality
+for productivity. Again, let me emphasize
+**for productivity**. It's
 good for viewing because you have a very
 large projection. So, you can use larger
 TV screens for viewing videos in YouTube
 while you are working, say, playing a 
 music video or live concert. 
 You just saved money for a larger projection
-of videos. That's an awesome experience too. 
+of videos. That's an awesome experience too
+,again, for viewing videos.
 
+Even if say, it's purely 4k like the iMac
+screen, still you tend to watch videos 
+farther so 4k at that point will not really
+matter.
