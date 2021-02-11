@@ -46,8 +46,8 @@ good for poor eyesight so that Mac
 still has the option to 
 lower the resolution.
 
-Also, some other external 24-Inch monitor
-is already curved. This actually has no
+Also, some external 24-Inch monitor
+are already curved. This actually has no
 benefit for this size.
 The 27-Inch iMac is still not curved.
 But beyond this size, you need a curved one.
