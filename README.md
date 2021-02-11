@@ -71,7 +71,7 @@ the experience is actually good,
 I don't experience much digital
 eye strain.
 
-And since they say, it's retina display
+And since they say it's retina display
 the individual pixels are too much, you
 will not see any individual pixel, no matter
 how close you are.
@@ -114,8 +114,9 @@ TV screens for viewing videos in YouTube
 while you are working, say, playing a 
 music video or live concert. 
 You just saved money for a larger projection
-of videos. That's an awesome experience too
-,again, for viewing videos.
+of videos. That's an awesome 
+experience too, again, for 
+viewing videos.
 
 Even if say, it's purely 4k like the iMac
 screen, still you tend to watch videos 
