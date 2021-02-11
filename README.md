@@ -93,7 +93,7 @@ matters.
 ## The 42-Inch Smart TV
 This external monitor is not completely
 a computer monitor, no matter how it is claimed
-it to be. Also, it's not just the 42-Inch.
+to be. Also, it's not just the 42-Inch.
 These displays are more for viewing videos 
 and hence cannot be used, say, for
 text editing. It can be, but for sure, your eyes
