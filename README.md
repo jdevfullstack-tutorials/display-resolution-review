@@ -38,7 +38,7 @@ But here is one thing you achieve:
 you have bigger projection of everything,
 especially when your eyesight is poor.
 
-Viewing distance is a little bit further
+Viewing distance is a little bit farther
 since the projection is bigger. But still, it
 is a good one. That's really good for poor
 eyesight. 4k resolution actually is not so
