@@ -13,7 +13,7 @@ and all work is done through the computer.
 So, this one really matters now.
 
 First, I simply project the netbook
-to an external monitor 24" 1080p. Then, 
+to an external monitor 27" 1080p. Then, 
 we were provided by our company
 with the iMac 21.5", 
 that's 4k Retina Display, 
@@ -25,7 +25,7 @@ a smart TV 42" 1080p.
 With these too many screens, I realized
 these things (for productivity):
 
-## 24-Inch 1080p
+## 27-Inch 1080p
 If that is really 1080p, then, that's good.
 You have a lot of space. With Windows OS,
 you get a scaled view of everything. They
@@ -46,7 +46,7 @@ good for poor eyesight so that Mac
 still has the option to 
 lower the resolution.
 
-Also, some external 24-Inch monitors
+Also, some external 27-Inch monitors
 are already curved. This actually has no
 benefit for this size.
 The 27-Inch iMac is still not curved.
