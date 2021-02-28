@@ -1,6 +1,6 @@
 # Display Resolution Review
 I just want to just share my personal 
-experience using different resolutions 
+experience in using different resolutions 
 of different desktops. 
 
 Before the pandemic, I was satisfied with
