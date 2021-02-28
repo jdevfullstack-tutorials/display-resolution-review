@@ -1,7 +1,7 @@
 # Display Resolution Review
 I just want to just share my personal 
-experience from using different resolutions 
-from different desktops. 
+experience using different resolutions 
+of different desktops. 
 
 Before the pandemic, I was satisfied with
 my HP Stream netbook. That is just
