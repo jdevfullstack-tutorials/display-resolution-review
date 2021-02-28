@@ -121,5 +121,7 @@ viewing videos.
 
 Even if say, it's purely 4k like the iMac
 screen, still you tend to watch videos 
-farther so 4k, for that reason, does not really
-matter.
+farther. So, 4k, for that reason, does not really
+matter. If you really want to pay for it,
+just make sure that you have the correct viewing
+distance.
