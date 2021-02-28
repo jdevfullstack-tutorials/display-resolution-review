@@ -121,5 +121,5 @@ viewing videos.
 
 Even if say, it's purely 4k like the iMac
 screen, still you tend to watch videos 
-farther so 4k at that point will not really
+farther so 4k, for that reason, does not really
 matter.
