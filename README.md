@@ -40,11 +40,12 @@ especially when your eyesight is poor.
 
 Viewing distance is a little bit farther
 since the projection is bigger. But still, it
-is a good one. That's really good for poor
-eyesight. 4k resolution actually is not so
+is a good one. 4k resolution is not so
 good for poor eyesight so that Mac 
-still has the option to 
-lower the resolution.
+provided the option to 
+lower the resolution thereby
+making all things appear bigger than
+the default.
 
 Also, some external 27-Inch monitors
 are already curved. This actually has no
