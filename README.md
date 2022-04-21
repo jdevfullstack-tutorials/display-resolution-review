@@ -1,4 +1,7 @@
 # Display Resolution Review
+
+*`updated 21 April 2022`*
+
 I just want to just share my personal 
 experience in using different resolutions 
 of different desktops. 
